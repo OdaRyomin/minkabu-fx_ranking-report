@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Data-Driven Reports"
+  short_description: "Turn structured data into decision-ready reports."
+  default_prompt: "Create a data-driven report from the provided files, including data audit, metric selection, narrative synthesis, visual structure, and validation."
