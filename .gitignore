@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+
+# 顧客向け生成物は公開リポジトリへ含めない
+output/*
+!output/.gitkeep
